@@ -23,33 +23,37 @@ subcategories, each assigned a unique decimal ID.
 
 /Documents
    */Personal*
-      /Personal Documents
-         Identification Documents
-         Legal Documents
-         Insurance Policies
+      /Personal-Documents (or Identity & Legal)
+         Identification-Documents
+         Legal-Documents
+         Licenses-&-Certifications
+         Insurance-Policies
       */Finance*
-         /2023
-            Electricity Bills
-            Water Bills
-            Internet Bills
-            *Budgeting*
-            *Bank Statements*
-            *Taxes* (or Tax Documents)
-            *Investments*
+         Electricity-Bills
+         Water-Bills
+         Internet-Bills
+         *Budgeting* (or Budget-&-Expenses)
+            /2024
+         *Bank-Statements*
+            /2024
+         *Taxes* (or Tax-Documents)
+            /2024
+         *Investments*
+            /2024
       */Health*
-         *Medical Records*
-            Doctor Visits
-            Lab Results
+         *Medical-Records*
+            Doctor-Visits
+            Lab-Results
          *Prescriptions*
-         *Fitness Plans*
+         *Fitness*
             Workout Plans
             Progress Tracking
             Diet Plans
          *Nutrition*
-         Mental Health
-            Therapy Notes
+         Mental-Health
+            Therapy-Notes
             Meditation
-         *(Health) Insurance*
+         *(Health) Insurance (Policies)*
             Policies
             Claims
             Receipts
@@ -57,7 +61,7 @@ subcategories, each assigned a unique decimal ID.
          Family
          Friends
       /Family
-         Children's Documents
+         Children's-Documents
       */Travel*
          */Trips (or Itineraries)*
          /Bookings (Flights, Hotels, etc.)
@@ -76,15 +80,17 @@ subcategories, each assigned a unique decimal ID.
             /Plant Care Guides
             /Garden Plans
       */Home (Projects)*
+         /Property Documents
          */Renovation(s) (Projects)*
          */Maintenance*
             /Seasonal Checklists
             /Repair Records
          /Home Insurance
          /Gardening Projects
+         /Utilities
       /Education (or Learning)
          */Courses*
-         /Certifications
+         /Certifications (or Certificates & Diplomas)
    */Work*
       */Projects*
          */Project A*
@@ -92,18 +98,18 @@ subcategories, each assigned a unique decimal ID.
             */Final*
             */Archive*
          */Project B*
-         /Project Templates
+         /Project-Templates
       */Admin*
          /Expenses
          */Invoices*
          /Timesheets
          */Contracts*
-         /Legal Documents
+         /Legal-Documents
       /Clients
-         /Client A
-         /Client B
+         /Client-A
+         /Client-B
       */Meetings* (and Events)
-         /Meeting Notes
+         /Meeting-Notes
          /Agendas
 
 
