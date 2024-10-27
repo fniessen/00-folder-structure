@@ -1,0 +1,188 @@
+#+TITLE:     Folder structure
+#+AUTHOR:    Fabrice Niessen
+#+EMAIL:     (concat "fniessen" at-sign "pirilampo.org")
+#+DESCRIPTION:
+#+KEYWORDS:  folder, directory, structure
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil
+
+* Index
+
+*Johnny Decimal System*
+
+Integration with Other Tools -- The JDS emphasizes that folders are not the sole
+organizing mechanism; applications like Bear or Things can serve as indexes for
+managing tasks without needing physical folders:
+- Use Bear for overarching notes that summarize projects or categories.
+- Use Things for detailed task management without cluttering the folder structure.
+
+
+In a typical JDS setup, the personal area can be categorized into several
+subcategories, each assigned a unique decimal ID.
+
+
+/Documents
+   */Personal*
+      /Personal Documents
+         Identification Documents
+         Legal Documents
+         Insurance Policies
+      */Finance*
+         /2023
+            Electricity Bills
+            Water Bills
+            Internet Bills
+            *Budgeting*
+            *Bank Statements*
+            *Taxes* (or Tax Documents)
+            *Investments*
+      */Health*
+         *Medical Records*
+            Doctor Visits
+            Lab Results
+         *Prescriptions*
+         *Fitness Plans*
+            Workout Plans
+            Progress Tracking
+            Diet Plans
+         *Nutrition*
+         Mental Health
+            Therapy Notes
+            Meditation
+         *(Health) Insurance*
+            Policies
+            Claims
+            Receipts
+      /Relationships
+         Family
+         Friends
+      /Family
+         Children's Documents
+      */Travel*
+         */Trips (or Itineraries)*
+         /Bookings (Flights, Hotels, etc.)
+         */Travel Documents* (Passports, Visas, Travel Insurance)
+         /Packing Lists
+         /Photo(s) Album
+         /Travel Photos
+      */Hobbies*
+         */Photography*
+         /Music
+         */Cooking*
+            */Recipes*
+            /Meal Plans
+            /Grocery (Shopping) Lists
+         */Gardening*
+            /Plant Care Guides
+            /Garden Plans
+      */Home (Projects)*
+         */Renovation(s) (Projects)*
+         */Maintenance*
+            /Seasonal Checklists
+            /Repair Records
+         /Home Insurance
+         /Gardening Projects
+      /Education (or Learning)
+         */Courses*
+         /Certifications
+   */Work*
+      */Projects*
+         */Project A*
+            */WIP*
+            */Final*
+            */Archive*
+         */Project B*
+         /Project Templates
+      */Admin*
+         /Expenses
+         */Invoices*
+         /Timesheets
+         */Contracts*
+         /Legal Documents
+      /Clients
+         /Client A
+         /Client B
+      */Meetings* (and Events)
+         /Meeting Notes
+         /Agendas
+
+
+50-59: Media
+50-51: Photos
+50.01: Family Photos
+50.02: Travel Photos
+50.03: Events and Celebrations
+52-53: Videos
+52.01: Home Videos
+52.02: Travel Videos
+52.03: Event Recordings
+54-55: Music
+54.01: Music Collection
+54.02: Playlists
+54.03: Music Projects
+56-57: Movies and TV Shows
+56.01: Movie Collection
+56.02: TV Show Collection
+56.03: Watchlist
+58-59: Miscellaneous Media
+58.01: Podcasts
+58.02: Audiobooks
+58.03: Other Media Files
+
+/Documents
+    /Personal
+        /Family
+            /Kids' Documents
+            /Family Photos
+        /Hobbies
+            /Sports
+            /Crafts
+    /Work
+        /Company Name
+            /Projects
+                /Project A
+                /Project B
+            /HR Documents
+    /Finance
+        /Bank Statements
+        /Taxes
+        /Investments
+    /Health
+        /Medical Records
+        /Insurance Information
+    /Travel
+        /2023
+            /Europe
+                /Itineraries
+                /Booking Confirmations
+
+
+
+/CompanyName
+    /Bills
+        /Incoming
+            /2024
+                /January
+                    2024-01-15_SupplierName_Invoice.pdf
+                /February
+        /Outgoing
+            /2024
+                /January
+                    2024-01-20_ClientName_Invoice.pdf
+                /February
+
+
+*Recommended File Naming Format*
+CompanyName_Invoice_YYYYMM_##ClientName_$Amount.pdf
+
+Breakdown of the Format
+- CompanyName: Your company's name for easy identification.
+- Invoice: Clearly label the document as an invoice.
+- YYYYMM: Use the year and month in numeric format (e.g., 202310 for October 2023).
+- ##: A unique invoice number that increments for each bill issued.
+- ClientName: The name of the client to whom the invoice is addressed.
+- $Amount: Include the total amount of the bill, formatted as a dollar amount (e.g., $150.00).
+- File Extension: Save as a PDF to maintain formatting.
+
+Example
+ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
