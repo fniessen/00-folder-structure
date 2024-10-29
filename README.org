@@ -41,134 +41,134 @@ Things to find:
 
 
 /Documents
-   */Personal*
-      /Personal-Documents (or Identity-&-Legal or Administration)
-         Identification-Documents
-         Legal-Documents
-         Licenses-&-Certifications
-         Insurance-Policies
-      */Finance*
-         Electricity-Bills
-         Water-Bills
-         Internet-Bills
-         *Budgeting* (or Budget-&-Expenses)
-            /2024
-         *Bank-Statements*
-            /2024
-         *Taxes* (or Tax-Documents)
-            /2024
-         *Investments*
-            /2024
-      */Health*
-         *Medical-Records*
-            Doctor-Visits
-            Lab-Results
-         *Prescriptions*
-         *Fitness*
-            Workout Plans
-            Progress Tracking
-            Diet Plans
-         *Nutrition*
-         Mental-Health
-            Therapy-Notes
-            Meditation
-         *(Health) Insurance (Policies)* (or Insurance-Information)
-            Policies
-            Claims
-            Receipts
-      /Relationships (or Family-&-Relationships)
-         *Family*
-            Birth-Certificates
-            Family-Tree
-         Friends
-      */Family*
-         Children's-Documents (or Kids'-Documents)
-         Family-Photos
-      */Travel*
-         */Trips (or Itineraries)*
-         /Bookings (Flights, Hotels, etc.) (or Booking-Confirmations)
-         */Travel Documents* (Passports, Visas, Travel Insurance)
-         /Packing Lists
-         /Photo(s) Album
-         /Travel Photos
-      */Hobbies*
-         */Photography*
-         /Painting
-         /Music
-         */Cooking*
-            */Recipes*
-            /Meal Plans
-            /Grocery (Shopping) Lists
-         */Gardening*
-            /Plant Care Guides
-            /Garden Plans
-         /Sports
-         /Crafts
-      */Home (Projects)*
-         /Property-Documents (or House-Documents or Mortgage-Documents)
-         */Renovation(s) (Projects)*
-         */Maintenance* (or Maintenance-Logs)
-            /Seasonal Checklists
-            /Repair Records
-         /Home Insurance
-         /Gardening Projects
-         */Utilities* (or Utility-Bills)
-      /Projects
-         /Home-Improvements
-            Kitchen-Renovation
-            Garden-Landscaping
-            DIY-Furniture
-      */Education* (or Learning)
-         */Courses*
-         */Certifications* (or Certificates & Diplomas)
-   */Work*
-      */Projects*
-         */Project A*
-            */WIP*
-            */Final*
-            */Archive*
-         */Project B*
-         /Project-Templates
-      */Admin* (or *Administration*)
-         /Expenses
-         */Invoices*
-         /Timesheets
-         */Contracts*
-         /Legal-Documents
-      */Finance*
-      /Clients
-         /Client-A
-         /Client-B
-      */Meetings* (and Events)
-         /Meeting-Notes (or Meeting-Minutes)
-         /Agendas
-      /Marketing
-      */Training* (or *Education* or Education-&-Training)
-         /Workshop-Materials
-      /Travel
+├── *Personal*
+│   └── Personal-Documents (or Identity-&-Legal or Administration)
+        ├── Identification-Documents
+        ├── Legal-Documents
+        ├── Licenses-&-Certifications
+        └── Insurance-Policies
+    └── *Finance*
+            Electricity-Bills
+            Water-Bills
+            Internet-Bills
+            *Budgeting* (or Budget-&-Expenses)
+                /2024
+            *Bank-Statements*
+                /2024
+            *Taxes* (or Tax-Documents)
+                /2024
+            *Investments*
+                /2024
+        */Health*
+            *Medical-Records*
+                Doctor-Visits
+                Lab-Results
+            *Prescriptions*
+            *Fitness*
+                Workout Plans
+                Progress Tracking
+                Diet Plans
+            *Nutrition*
+            Mental-Health
+                Therapy-Notes
+                Meditation
+            *(Health) Insurance (Policies)* (or Insurance-Information)
+                Policies
+                Claims
+                Receipts
+        /Relationships (or Family-&-Relationships)
+            *Family*
+                Birth-Certificates
+                Family-Tree
+            Friends
+        */Family*
+            Children's-Documents (or Kids'-Documents)
+            Family-Photos
+        */Travel*
+            */Trips (or Itineraries)*
+            /Bookings (Flights, Hotels, etc.) (or Booking-Confirmations)
+            */Travel Documents* (Passports, Visas, Travel Insurance)
+            /Packing Lists
+            /Photo(s) Album
+            /Travel Photos
+        */Hobbies*
+            */Photography*
+            /Painting
+            /Music
+            */Cooking*
+                */Recipes*
+                /Meal Plans
+                /Grocery (Shopping) Lists
+            */Gardening*
+                /Plant Care Guides
+                /Garden Plans
+            /Sports
+            /Crafts
+        */Home (Projects)*
+            /Property-Documents (or House-Documents or Mortgage-Documents)
+            */Renovation(s) (Projects)*
+            */Maintenance* (or Maintenance-Logs)
+                /Seasonal Checklists
+                /Repair Records
+            /Home Insurance
+            /Gardening Projects
+            */Utilities* (or Utility-Bills)
+        /Projects
+            /Home-Improvements
+                Kitchen-Renovation
+                Garden-Landscaping
+                DIY-Furniture
+        */Education* (or Learning)
+            */Courses*
+            */Certifications* (or Certificates & Diplomas)
+    */Work*
+        */Projects*
+            */Project A*
+                */WIP*
+                */Final*
+                */Archive*
+            */Project B*
+            /Project-Templates
+        */Admin* (or *Administration*)
+            /Expenses
+            */Invoices*
+            /Timesheets
+            */Contracts*
+            /Legal-Documents
+        */Finance*
+        /Clients
+            /Client-A
+            /Client-B
+        */Meetings* (and Events)
+            /Meeting-Notes (or Meeting-Minutes)
+            /Agendas
+        /Marketing
+        */Training* (or *Education* or Education-&-Training)
+            /Workshop-Materials
+        /Travel
 
 
 50-59: Media
-   50-51: Photos
-      50.01: Family Photos
-      50.02: Travel Photos
-      50.03: Events and Celebrations
-   52-53: Videos
-      52.01: Home Videos
-      52.02: Travel Videos
-      52.03: Event Recordings
-   54-55: Music
-      54.01: Music Collection
-      54.02: Playlists
-      54.03: Music Projects
-   56-57: Movies and TV Shows
-      56.01: Movie Collection
-      56.02: TV Show Collection
-      56.03: Watchlist
-   58-59: Miscellaneous Media
-      58.01: Podcasts
-      58.02: Audiobooks
-      58.03: Other Media Files
+    50-51: Photos
+        50.01: Family Photos
+        50.02: Travel Photos
+        50.03: Events and Celebrations
+    52-53: Videos
+        52.01: Home Videos
+        52.02: Travel Videos
+        52.03: Event Recordings
+    54-55: Music
+        54.01: Music Collection
+        54.02: Playlists
+        54.03: Music Projects
+    56-57: Movies and TV Shows
+        56.01: Movie Collection
+        56.02: TV Show Collection
+        56.03: Watchlist
+    58-59: Miscellaneous Media
+        58.01: Podcasts
+        58.02: Audiobooks
+        58.03: Other Media Files
 
 /Documents
     /Work
