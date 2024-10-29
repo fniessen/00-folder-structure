@@ -21,9 +21,28 @@ In a typical JDS setup, the personal area can be categorized into several
 subcategories, each assigned a unique decimal ID.
 
 
+Things to find:
+    Personal finances, investments
+    Personal projects, home improvements
+    Family documents plans
+    Medical records, diet information
+    Hobby-related files, personal interests
+    Personal learning, courses, certifications not related to work
+    Travel plans, vacation ideas, leisure activities
+    House documents, utilities, maintenance schedules
+    Work-related administrative tasks, policies, procedures
+    Work projects, client projects
+    Work-related financial documents, expense reports, budgets
+    HR-related documents, benefits information
+    Marketing materials, sales reports, client information
+    Work-related learning, professional development, training materials
+    Operational documents, processes, workflows
+    Work-related tech documentation, software licenses
+
+
 /Documents
    */Personal*
-      /Personal-Documents (or Identity & Legal)
+      /Personal-Documents (or Identity-&-Legal or Administration)
          Identification-Documents
          Legal-Documents
          Licenses-&-Certifications
@@ -53,24 +72,28 @@ subcategories, each assigned a unique decimal ID.
          Mental-Health
             Therapy-Notes
             Meditation
-         *(Health) Insurance (Policies)*
+         *(Health) Insurance (Policies)* (or Insurance-Information)
             Policies
             Claims
             Receipts
-      /Relationships
-         Family
+      /Relationships (or Family-&-Relationships)
+         *Family*
+            Birth-Certificates
+            Family-Tree
          Friends
-      /Family
-         Children's-Documents
+      */Family*
+         Children's-Documents (or Kids'-Documents)
+         Family-Photos
       */Travel*
          */Trips (or Itineraries)*
-         /Bookings (Flights, Hotels, etc.)
+         /Bookings (Flights, Hotels, etc.) (or Booking-Confirmations)
          */Travel Documents* (Passports, Visas, Travel Insurance)
          /Packing Lists
          /Photo(s) Album
          /Travel Photos
       */Hobbies*
          */Photography*
+         /Painting
          /Music
          */Cooking*
             */Recipes*
@@ -79,18 +102,25 @@ subcategories, each assigned a unique decimal ID.
          */Gardening*
             /Plant Care Guides
             /Garden Plans
+         /Sports
+         /Crafts
       */Home (Projects)*
-         /Property Documents
+         /Property-Documents (or House-Documents or Mortgage-Documents)
          */Renovation(s) (Projects)*
-         */Maintenance*
+         */Maintenance* (or Maintenance-Logs)
             /Seasonal Checklists
             /Repair Records
          /Home Insurance
          /Gardening Projects
-         /Utilities
-      /Education (or Learning)
+         */Utilities* (or Utility-Bills)
+      /Projects
+         /Home-Improvements
+            Kitchen-Renovation
+            Garden-Landscaping
+            DIY-Furniture
+      */Education* (or Learning)
          */Courses*
-         /Certifications (or Certificates & Diplomas)
+         */Certifications* (or Certificates & Diplomas)
    */Work*
       */Projects*
          */Project A*
@@ -99,69 +129,54 @@ subcategories, each assigned a unique decimal ID.
             */Archive*
          */Project B*
          /Project-Templates
-      */Admin*
+      */Admin* (or *Administration*)
          /Expenses
          */Invoices*
          /Timesheets
          */Contracts*
          /Legal-Documents
+      */Finance*
       /Clients
          /Client-A
          /Client-B
       */Meetings* (and Events)
-         /Meeting-Notes
+         /Meeting-Notes (or Meeting-Minutes)
          /Agendas
+      /Marketing
+      */Training* (or *Education* or Education-&-Training)
+         /Workshop-Materials
+      /Travel
 
 
 50-59: Media
-50-51: Photos
-50.01: Family Photos
-50.02: Travel Photos
-50.03: Events and Celebrations
-52-53: Videos
-52.01: Home Videos
-52.02: Travel Videos
-52.03: Event Recordings
-54-55: Music
-54.01: Music Collection
-54.02: Playlists
-54.03: Music Projects
-56-57: Movies and TV Shows
-56.01: Movie Collection
-56.02: TV Show Collection
-56.03: Watchlist
-58-59: Miscellaneous Media
-58.01: Podcasts
-58.02: Audiobooks
-58.03: Other Media Files
+   50-51: Photos
+      50.01: Family Photos
+      50.02: Travel Photos
+      50.03: Events and Celebrations
+   52-53: Videos
+      52.01: Home Videos
+      52.02: Travel Videos
+      52.03: Event Recordings
+   54-55: Music
+      54.01: Music Collection
+      54.02: Playlists
+      54.03: Music Projects
+   56-57: Movies and TV Shows
+      56.01: Movie Collection
+      56.02: TV Show Collection
+      56.03: Watchlist
+   58-59: Miscellaneous Media
+      58.01: Podcasts
+      58.02: Audiobooks
+      58.03: Other Media Files
 
 /Documents
-    /Personal
-        /Family
-            /Kids' Documents
-            /Family Photos
-        /Hobbies
-            /Sports
-            /Crafts
     /Work
         /Company Name
             /Projects
                 /Project A
                 /Project B
             /HR Documents
-    /Finance
-        /Bank Statements
-        /Taxes
-        /Investments
-    /Health
-        /Medical Records
-        /Insurance Information
-    /Travel
-        /2023
-            /Europe
-                /Itineraries
-                /Booking Confirmations
-
 
 
 /CompanyName
