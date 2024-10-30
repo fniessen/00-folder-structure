@@ -165,27 +165,28 @@ Things to find:
     └── Travel
 
 
-50-59: Media
-    50-51: Photos
-        50.01: Family Photos
-        50.02: Travel Photos
-        50.03: Events and Celebrations
-    52-53: Videos
-        52.01: Home Videos
-        52.02: Travel Videos
-        52.03: Event Recordings
-    54-55: Music
-        54.01: Music Collection
-        54.02: Playlists
-        54.03: Music Projects
-    56-57: Movies and TV Shows
-        56.01: Movie Collection
-        56.02: TV Show Collection
-        56.03: Watchlist
-    58-59: Miscellaneous Media
-        58.01: Podcasts
-        58.02: Audiobooks
-        58.03: Other Media Files
+50-59: *Media*
+   50-51: Photos
+      50.01: Family Photos
+      50.02: Travel Photos
+      50.03: Events and Celebrations
+   52-53: *Videos*
+      52.01: Home Videos
+      52.02: Travel Videos
+      52.03: Event Recordings
+   54-55: Music
+      54.01: Music Collection
+      54.02: Playlists
+      54.03: Music Projects
+   56-57: Movies and TV Shows
+      56.01: Movie Collection
+      56.02: TV Show Collection
+      56.03: Watchlist
+   58-59: Miscellaneous Media
+      58.01: Podcasts
+      58.02: Audiobooks
+      58.03: Other Media Files
+
 
 /Documents
     /Work
