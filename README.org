@@ -66,15 +66,15 @@ Things to find:
             ├── Home-Insurance
             ├── Phone-Insurance
             ├── Life-Insurance
-            ├── Disability-Insurance
+            ├── Disability-Insurance (under Work?)
             ├── Travel-Insurance
             ├── Pet-Insurance
             ├── Renters-Insurance
             ├── Dental-Insurance
             ├── Vision-Insurance
             ├── Long-Term-Care-Insurance
-            ├── Critical-Illness-Insurance
-            ├── Business-Insurance
+            ├── Critical-Illness-Insurance (under Work?)
+            ├── Business-Insurance (under Work?)
             └── Identity-Theft-Insurance
     ├── *Health*
         ├── *Medical-Records*
@@ -127,8 +127,8 @@ Things to find:
         ├── *Maintenance* (or Maintenance-Logs)
                 Seasonal Checklists
                 Repair Records
-        ├── Home Insurance
-        ├── Gardening Projects
+        ├── Home-Insurance
+        ├── Gardening-Projects
         └── *Utilities* (or Utility-Bills)
     ├── Projects
         └── Home-Improvements
