@@ -48,9 +48,10 @@ Things to find:
         ├── Licenses-&-Certifications
         └── Insurance-Policies
     ├── *Finance*
-        ├── Electricity-Bills
-        ├── Water-Bills
-        ├── Internet-Bills
+        ├── Bills-&-Expenses (or Utilities)
+            ├── Electricity-Bills
+            ├── Water-Bills
+            └── Internet-Bills
         ├── *Budgeting* (or Budget-&-Expenses)
                 2024
         ├── *Bank-Statements*
@@ -60,10 +61,21 @@ Things to find:
         ├── *Investments*
                 2024
         └── Insurance
-                Health-Insurance
-                Car-Insurance
-                Home-Insurance
-                Phone-Insurance
+            ├── Health-Insurance
+            ├── Car-Insurance
+            ├── Home-Insurance
+            ├── Phone-Insurance
+            ├── Life-Insurance
+            ├── Disability-Insurance
+            ├── Travel-Insurance
+            ├── Pet-Insurance
+            ├── Renters-Insurance
+            ├── Dental-Insurance
+            ├── Vision-Insurance
+            ├── Long-Term-Care-Insurance
+            ├── Critical-Illness-Insurance
+            ├── Business-Insurance
+            └── Identity-Theft-Insurance
     ├── *Health*
         ├── *Medical-Records*
                 Doctor-Visits
