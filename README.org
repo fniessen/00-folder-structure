@@ -48,7 +48,7 @@ Things to find:
         ├── Licenses-&-Certifications
         └── Insurance-Policies
     ├── *Finance*
-        ├── Bills-&-Expenses (or Utilities)
+        ├── *Expenses* (or Utilities)
             ├── Electricity-Bills
             ├── Water-Bills
             └── Internet-Bills
@@ -56,11 +56,11 @@ Things to find:
                 2024
         ├── *Bank-Statements*
                 2024
-        ├── *Taxes* (or Tax-Documents)
+        ├── *Tax-Documents* (or Taxes)
                 2024
         ├── *Investments*
                 2024
-        └── Insurance
+        └── *Insurance*
             ├── Health-Insurance
             ├── Car-Insurance
             ├── Home-Insurance
@@ -70,7 +70,7 @@ Things to find:
             ├── Travel-Insurance
             ├── Pet-Insurance
             ├── Renters-Insurance
-            ├── Dental-Insurance
+            ├── *Dental-Insurance*
             ├── Vision-Insurance
             ├── Long-Term-Care-Insurance
             ├── Critical-Illness-Insurance (under Work?)
@@ -81,13 +81,13 @@ Things to find:
                 Doctor-Visits
                 Lab-Results
         ├── *Prescriptions*
-            *Fitness*
+        ├── *Fitness*
                 Workout Plans
                 Progress Tracking
                 Diet Plans
         ├── *Nutrition*
-        ├── Mental-Health
-                Therapy-Notes
+        ├── /Mental-Health/
+                /Therapy-Notes/
                 Meditation
         └── *(Health) Insurance (Policies)* (or Insurance-Information)
                 Policies
@@ -120,7 +120,9 @@ Things to find:
                 Plant Care Guides
                 Garden Plans
         ├── Sports
+                Biking
         └── Crafts
+            Social Media
     ├── *Home (Projects)*
         ├── Property-Documents (or House-Documents or Mortgage-Documents)
         ├── *Renovation(s) (Projects)*
@@ -135,25 +137,53 @@ Things to find:
                 Kitchen-Renovation
                 Garden-Landscaping
                 DIY-Furniture
-    └── *Education* (or Learning)
+    └── *Education* (and Learning)
         ├── *Courses*
+                Hypnosis
         └── *Certifications* (or Certificates & Diplomas)
-└── *Work*
+    └── Shopping
+└── *Work* (+ Company Name?)
     ├── *Projects*
-        ├── *Project A*
+        ├── *Project-A*
                 *WIP*
                 *Final*
                 *Archive*
-        ├── *Project B*
+        ├── *Project-B*
         └── Project-Templates
     ├── *Admin* (or *Administration*)
-        ├── Expenses
-        ├── *Invoices*
         ├── Timesheets
         ├── *Contracts*
         └── Legal-Documents
     ├── *Finance*
-        Clients
+        ├── *Expenses* (for money going out)
+                2024
+                    January
+                        2024-01-20_ClientName_Invoice.pdf
+        ├── *Invoices* (for money coming in)
+                2024
+                    January
+                        2024-01-15_SupplierName_Invoice.pdf
+
+                        *Recommended File Naming Format*
+                        CompanyName_Invoice_YYYYMM_##ClientName_$Amount.pdf
+
+                        Breakdown of the Format
+                        - CompanyName: Your company's name for easy identification.
+                        - Invoice: Clearly label the document as an invoice.
+                        - YYYYMM: Use the year and month in numeric format (e.g., 202310 for October 2023).
+                        - ##: A unique invoice number that increments for each bill issued.
+                        - ClientName: The name of the client to whom the invoice is addressed.
+                        - $Amount: Include the total amount of the bill, formatted as a dollar amount (e.g., $150.00).
+                        - File Extension: Save as a PDF to maintain formatting.
+
+                        Example
+                        ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
+
+    ├── *Bank-Statements*
+        └── *Tax-Documents* (or Taxes)
+    ├── Human-Resources
+        └── HR-Documents
+    ├── Clients
         ├── Client-A
         └── Client-B
     ├── *Meetings* (and Events)
@@ -186,42 +216,3 @@ Things to find:
       58.01: Podcasts
       58.02: Audiobooks
       58.03: Other Media Files
-
-
-/Documents
-    /Work
-        /Company Name
-            /Projects
-                /Project A
-                /Project B
-            /HR Documents
-
-
-/CompanyName
-    /Bills
-        /Incoming
-            /2024
-                /January
-                    2024-01-15_SupplierName_Invoice.pdf
-                /February
-        /Outgoing
-            /2024
-                /January
-                    2024-01-20_ClientName_Invoice.pdf
-                /February
-
-
-*Recommended File Naming Format*
-CompanyName_Invoice_YYYYMM_##ClientName_$Amount.pdf
-
-Breakdown of the Format
-- CompanyName: Your company's name for easy identification.
-- Invoice: Clearly label the document as an invoice.
-- YYYYMM: Use the year and month in numeric format (e.g., 202310 for October 2023).
-- ##: A unique invoice number that increments for each bill issued.
-- ClientName: The name of the client to whom the invoice is addressed.
-- $Amount: Include the total amount of the bill, formatted as a dollar amount (e.g., $150.00).
-- File Extension: Save as a PDF to maintain formatting.
-
-Example
-ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
