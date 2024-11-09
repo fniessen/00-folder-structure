@@ -179,7 +179,7 @@ Things to find:
                         Example
                         ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
 
-    ├── *Bank-Statements*
+        ├── *Bank-Statements*
         └── *Tax-Documents* (or Taxes)
     ├── Human-Resources
         └── HR-Documents
