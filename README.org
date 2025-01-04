@@ -82,11 +82,10 @@ Things to find:
 
 /Documents
 ├── *Personal*
-│   ├── Personal-Documents (or Identity-&-Legal or Administration)
+│   ├── Administration
 │   │   ├── Identification
 │   │   ├── Legal-Documents
-│   │   ├── Licenses-&-Certifications
-│   │   └── Insurance-Policies
+│   │   ├── Licenses
 │   ├── *Finance*
 │   │   ├── *Expenses* (or Utilities, or Utility-Bills)
 │   │   │   ├── Electricity-Bills
@@ -130,20 +129,19 @@ Things to find:
 │   │   ├── /Mental-Health/
 │   │   │   ├── /Therapy-Notes/
 │   │   │   └── Meditation
-│   ├── Relationships (or Family-&-Relationships, or Social-and-Events)
+│   ├── Family-&-Relationships
 │   │   ├── *Family*
-│   │   └── Friends
+│   │   │   ├── Children's-Documents
+│   │   │   │   ├── Birth-Certificates
+│   │   │   │   ├── *School-Records*
+│   │   │   │   ├── *Medical-Records*
+│   │   │   │   ├── Artwork
+│   │   │   │   └── Extracurricular-Activities
+│   │   │   └── Family-Photos
+│   │   └── *Friends*
 │   │       ├── Festivals-and-Markets
 │   │       │   └── Event schedules, tickets, brochures, etc.
 │   │       └── Invitations-and-Event-Schedules
-│   ├── *Family*
-│   │   ├── Children's-Documents
-│   │   │   ├── Birth-Certificates
-│   │   │   ├── *School-Records*
-│   │   │   ├── *Medical-Records*
-│   │   │   ├── Artwork
-│   │   │   └── Extracurricular-Activities
-│   │   └── Family-Photos
 │   ├── *Travel*
 │   │   ├── *Trips (or Itineraries)*
 │   │   ├── Bookings (Flights, Hotels, etc.)
@@ -154,7 +152,7 @@ Things to find:
 │   │   ├── Packing-Lists
 │   │   ├── Photo(s)-Album
 │   │   └── Travel-Photos
-│   ├── *Hobbies*
+│   ├── *Hobbies* (& Interests)
 │   │   ├── *Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
@@ -170,13 +168,13 @@ Things to find:
 │   │   │   └── Biking
 │   │   ├── Crafts
 │   │   └── Social-Media
-│   ├── *Home (Projects)*
+│   ├── *Home*
 │   │   ├── Property-Documents (or House-Documents or Mortgage-Documents)
 │   │   ├── *Renovation(s)-(Projects)*
 │   │   ├── *Maintenance*
 │   │   │   ├── Seasonal-Checklists
 │   │   │   └── Repair-Records
-│   │   ├── Home-Insurance
+│   │   ├── Home-Insurance XXX
 │   │   ├── Gardening-Projects
 │   │   └── *Utilities*
 │   ├── Projects
@@ -188,7 +186,7 @@ Things to find:
 │   │   ├── *Courses*
 │   │   │   └── Hypnosis
 │   │   └── *Certifications* (or Certificates-&-Diplomas)
-│   └── Shopping
+│   └── Shopping (for Shopping lists, receipts, warranties, or wish lists)
 │       ├── Electronics-and-Equipment
 │       ├── Media-and-Entertainment
 │       └── Well-being-and-Lifestyle
