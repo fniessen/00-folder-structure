@@ -25,56 +25,60 @@ subcategories, each assigned a unique decimal ID.
 
 
 Things to find:
-    Personal finances, investments
-    Personal projects, home improvements
-    Family documents plans
-    Medical records, diet information
-    Hobby-related files, personal interests
-    Personal learning, courses, certifications not related to work
-    Travel plans, vacation ideas, leisure activities
-    House documents, utilities, maintenance schedules
-    Work-related administrative tasks, policies, procedures
-    Work projects, client projects
-    Work-related financial documents, expense reports, budgets
-    HR-related documents, benefits information
-    Marketing materials, sales reports, client information
-    Work-related learning, professional development, training materials
-    Operational documents, processes, workflows
-    Work-related tech documentation, software licenses
-
-- Files related to camping registrations, schedules, and other activity plans.
-- Files related to home maintenance (repair bills, maintenance schedules, etc.).
-- Documents like bank statements, subscription receipts, and financial planning.
-- Transportation-related files, like vehicle maintenance records, insurance, etc.
-- Files related to technology, such as device manuals, software setups, etc.
-- Appointments and schedules (doctor’s appointments, meetings, etc.).
-- Tax files, financial records, invoices, etc.
-- Travel bookings, hotel reservations, itineraries, etc.
-- Family photos, birthday plans, invitations, etc.
-- Event schedules, tickets, and other documents related to festivals or markets.
-- Invitations, event schedules, notes, etc.
-- Files related to learning materials, research, and ongoing projects.
-- Files about hypnosis techniques, training courses, etc.
-- Files with detailed notes on hypnosis techniques and applications.
-- Training materials, research, and files about micro-expressions and body language.
-- Files related to creating and sharing content on social media platforms.
-- Files related to family projects, activities, and documentation.
-- Files for creative endeavors, like photography, art, or writing projects.
-- Files related to professional training, certifications, and courses.
-- Files about configuring and debugging technical systems or software.
-- Email threads, messages, and communication logs related to work.
-- Receipts, manuals, and invoices related to electronic purchases.
-- Files for media-related purchases like DVDs, streaming, and downloads.
-- Receipts or information about lifestyle purchases (fitness, health products).
-- Files related to books, articles, or research materials.
-- Files related to tests, homework, and academic work.
-- Files related to movies, streaming services, or video content.
-- Audio files, playlists, and music-related content.
-- Files for setting goals, planning future projects, and calendars.
-- Any files that don’t fit elsewhere (miscellaneous notes, random documents).
-
-
-
+- Personal Documents
+  + Family documents, plans
+  + Family photos, birthdays, invitations, etc.
+  + Personal finances, investments
+  + Documents like bank statements, subscription receipts, and financial planning
+  + Tax files, financial records, invoices, etc.
+  + Files related to transportation (vehicle maintenance records, insurance, etc.)
+  + Files for setting goals, planning future projects, and calendars
+  + Files related to books, articles, or research materials
+  + Files about hypnosis techniques, training courses, etc.
+  + Files with detailed notes on hypnosis techniques and applications
+  + Receipts, manuals, and invoices related to electronic purchases.
+- Health and Well-being
+  + Medical records, diet information
+  + Appointments and schedules (doctor’s appointments, meetings, etc.)
+  + Receipts or files about lifestyle purchases (fitness, health products)
+- Family and Relationships
+  + Files related to family projects, activities, and documentation
+  + Event schedules, tickets, and other documents related to festivals or markets
+  + Invitations, event schedules, notes, etc.
+- Hobbies and Personal Interests
+  + Hobby-related files, personal interests
+  + Files for creative endeavors (photography, art, writing projects)
+  + Files related to camp registrations, schedules, and other activity plans
+  + Files related to creating and sharing content on social media platforms
+  + Audio files, playlists, and music-related content
+  + Files related to movies, streaming services, or video content
+- Home and Property
+  + House documents, utilities, maintenance schedules
+  + Files related to home maintenance (repair bills, maintenance schedules, etc.)
+  + Files related to technology (device manuals, software setups, etc.)
+  + Files for media-related purchases (DVDs, streaming, and downloads)
+  + Home improvements
+- Education and Learning
+  + Personal learning, courses, certifications (not related to work)
+  + Files related to learning materials, research, and ongoing projects
+  + Files related to tests, homework, and academic work
+  + Files for professional training, certifications, and courses
+  + Training materials, research, and files about micro-expressions
+- Travel
+  + Travel plans, vacation ideas, leisure activities
+  + Travel bookings, hotel reservations, itineraries, etc.
+- Work and Professional
+  + Work-related administrative tasks, policies, procedures
+  + Work projects, client projects
+  + HR-related documents, benefits information
+  + Work-related financial documents, expense reports, budgets
+  + Marketing materials, sales reports, client information
+  + Work-related learning, professional development, training materials
+  + Operational documents, processes, workflows
+  + Work-related tech documentation, software licenses
+  + Email messages, and communication logs related to work
+- Miscellaneous
+  + Any files that don’t fit elsewhere (miscellaneous notes, random documents)
 
 /Documents
 ├── *Personal*
