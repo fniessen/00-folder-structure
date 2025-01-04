@@ -102,19 +102,20 @@ Things to find:
 │   │   │   └── 2024
 │   │   └── *Insurance*
 │   │       ├── Health-Insurance
+│   │       │   ├── Policies
+│   │       │   ├── Claims
+│   │       │   └── Receipts
 │   │       ├── Car-Insurance
 │   │       ├── Home-Insurance
 │   │       ├── Phone-Insurance
 │   │       ├── Life-Insurance
-│   │       ├── Disability-Insurance (under Work?)
 │   │       ├── Travel-Insurance
 │   │       ├── Pet-Insurance
 │   │       ├── Renters-Insurance
 │   │       ├── *Dental-Insurance*
 │   │       ├── Vision-Insurance
 │   │       ├── Long-Term-Care-Insurance
-│   │       ├── Critical-Illness-Insurance (under Work?)
-│   │       └── Business-Insurance (under Work?)
+│   │       └── Critical-Illness-Insurance (under Work?)
 │   ├── *Health*
 │   │   ├── *Medical-Records*
 │   │   │   ├── Doctor-Visits
@@ -128,10 +129,6 @@ Things to find:
 │   │   ├── /Mental-Health/
 │   │   │   ├── /Therapy-Notes/
 │   │   │   └── Meditation
-│   │   └── *(Health-) Insurance*
-│   │       ├── Policies
-│   │       ├── Claims
-│   │       └── Receipts
 │   ├── Relationships (or Family-&-Relationships, or Social-and-Events)
 │   │   ├── *Family*
 │   │   │   ├── Birth-Certificates
@@ -224,7 +221,10 @@ Things to find:
                         Example
                         ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
     │   ├── *Bank-Statements*
-    │   └── *Tax-Documents* (or Taxes)
+    │   ├── *Tax-Documents* (or Taxes)
+    │   └── *Insurance*
+    │       ├── Disability-Insurance
+    │       └── Business-Insurance
     ├── Human-Resources
     ├── Clients
     │   ├── Client-A
