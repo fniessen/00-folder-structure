@@ -7,6 +7,9 @@
 #+OPTIONS:   H:4 num:nil
 
 * Index
+:PROPERTIES:
+:ID:       fafd0ce1-480b-405f-a3a7-c7caf1615e07
+:END:
 
 *Johnny Decimal System*
 
@@ -39,129 +42,167 @@ Things to find:
     Operational documents, processes, workflows
     Work-related tech documentation, software licenses
 
+- Files related to camping registrations, schedules, and other activity plans.
+- Files related to home maintenance (repair bills, maintenance schedules, etc.).
+- Documents like bank statements, subscription receipts, and financial planning.
+- Transportation-related files, like vehicle maintenance records, insurance, etc.
+- Files related to technology, such as device manuals, software setups, etc.
+- Appointments and schedules (doctor’s appointments, meetings, etc.).
+- Tax files, financial records, invoices, etc.
+- Travel bookings, hotel reservations, itineraries, etc.
+- Family photos, birthday plans, invitations, etc.
+- Event schedules, tickets, and other documents related to festivals or markets.
+- Invitations, event schedules, notes, etc.
+- Files related to learning materials, research, and ongoing projects.
+- Files about hypnosis techniques, training courses, etc.
+- Files with detailed notes on hypnosis techniques and applications.
+- Training materials, research, and files about micro-expressions and body language.
+- Files related to creating and sharing content on social media platforms.
+- Files related to family projects, activities, and documentation.
+- Files for creative endeavors, like photography, art, or writing projects.
+- Files related to professional training, certifications, and courses.
+- Files about configuring and debugging technical systems or software.
+- Email threads, messages, and communication logs related to work.
+- Receipts, manuals, and invoices related to electronic purchases.
+- Files for media-related purchases like DVDs, streaming, and downloads.
+- Receipts or information about lifestyle purchases (fitness, health products).
+- Files related to books, articles, or research materials.
+- Files related to tests, homework, and academic work.
+- Files related to movies, streaming services, or video content.
+- Audio files, playlists, and music-related content.
+- Files for setting goals, planning future projects, and calendars.
+- Any files that don’t fit elsewhere (miscellaneous notes, random documents).
+
+
+
 
 /Documents
 ├── *Personal*
 │   ├── Personal-Documents (or Identity-&-Legal or Administration)
-        ├── Identification-Documents
-        ├── Legal-Documents
-        ├── Licenses-&-Certifications
-        └── Insurance-Policies
-    ├── *Finance*
-        ├── *Expenses* (or Utilities)
-            ├── Electricity-Bills
-            ├── Water-Bills
-            └── Internet-Bills
-        ├── *Budgeting* (or Budget-&-Expenses)
-                2024
-        ├── *Bank-Statements*
-                2024
-        ├── *Tax-Documents* (or Taxes)
-                2024
-        ├── *Investments*
-                2024
-        └── *Insurance*
-            ├── Health-Insurance
-            ├── Car-Insurance
-            ├── Home-Insurance
-            ├── Phone-Insurance
-            ├── Life-Insurance
-            ├── Disability-Insurance (under Work?)
-            ├── Travel-Insurance
-            ├── Pet-Insurance
-            ├── Renters-Insurance
-            ├── *Dental-Insurance*
-            ├── Vision-Insurance
-            ├── Long-Term-Care-Insurance
-            ├── Critical-Illness-Insurance (under Work?)
-            ├── Business-Insurance (under Work?)
-            └── Identity-Theft-Insurance
-    ├── *Health*
-        ├── *Medical-Records*
-                Doctor-Visits
-                Lab-Results
-        ├── *Prescriptions*
-        ├── *Fitness*
-                Workout Plans
-                Progress Tracking
-                Diet Plans
-        ├── *Nutrition*
-        ├── /Mental-Health/
-                /Therapy-Notes/
-                Meditation
-        └── *(Health) Insurance (Policies)* (or Insurance-Information)
-                Policies
-                Claims
-                Receipts
-    ├── Relationships (or Family-&-Relationships)
-        ├── *Family*
-                Birth-Certificates
-                Family-Tree
-        └── Friends
-    ├── *Family*
-        ├── Children's-Documents (or Kids'-Documents)
-        └── Family-Photos
-    ├── *Travel*
-        ├── *Trips (or Itineraries)*
-        ├── Bookings (Flights, Hotels, etc.) (or Booking-Confirmations)
-        ├── *Travel Documents* (Passports, Visas, Travel Insurance)
-        ├── Packing Lists
-        ├── Photo(s) Album
-        └── Travel Photos
-    ├── *Hobbies*
-        ├── *Photography*
-        ├── Painting
-        ├── Music
-        ├── *Cooking*
-                *Recipes*
-                Meal Plans
-                Grocery (Shopping) Lists
-        ├── *Gardening*
-                Plant Care Guides
-                Garden Plans
-        ├── Sports
-                Biking
-        └── Crafts
-            Social Media
-    ├── *Home (Projects)*
-        ├── Property-Documents (or House-Documents or Mortgage-Documents)
-        ├── *Renovation(s) (Projects)*
-        ├── *Maintenance* (or Maintenance-Logs)
-                Seasonal Checklists
-                Repair Records
-        ├── Home-Insurance
-        ├── Gardening-Projects
-        └── *Utilities* (or Utility-Bills)
-    ├── Projects
-        └── Home-Improvements
-                Kitchen-Renovation
-                Garden-Landscaping
-                DIY-Furniture
-    └── *Education* (and Learning)
-        ├── *Courses*
-                Hypnosis
-        └── *Certifications* (or Certificates & Diplomas)
-    └── Shopping
+│   │   ├── Identification-Documents
+│   │   ├── Legal-Documents
+│   │   ├── Licenses-&-Certifications
+│   │   └── Insurance-Policies
+│   ├── *Finance*
+│   │   ├── *Expenses* (or Utilities, or Utility-Bills)
+│   │   │   ├── Electricity-Bills
+│   │   │   ├── Water-Bills
+│   │   │   └── Internet-Bills
+│   │   ├── *Budgeting* (or Budget-&-Expenses)
+│   │   │   └── 2024
+│   │   ├── *Bank-Statements*
+│   │   │   └── 2024
+│   │   ├── *Tax-Documents* (or Taxes)
+│   │   │   └── 2024
+│   │   ├── *Investments*
+│   │   │   └── 2024
+│   │   └── *Insurance*
+│   │       ├── Health-Insurance
+│   │       ├── Car-Insurance
+│   │       ├── Home-Insurance
+│   │       ├── Phone-Insurance
+│   │       ├── Life-Insurance
+│   │       ├── Disability-Insurance (under Work?)
+│   │       ├── Travel-Insurance
+│   │       ├── Pet-Insurance
+│   │       ├── Renters-Insurance
+│   │       ├── *Dental-Insurance*
+│   │       ├── Vision-Insurance
+│   │       ├── Long-Term-Care-Insurance
+│   │       ├── Critical-Illness-Insurance (under Work?)
+│   │       └── Business-Insurance (under Work?)
+│   ├── *Health*
+│   │   ├── *Medical-Records*
+│   │   │   ├── Doctor-Visits
+│   │   │   └── Lab-Results
+│   │   ├── *Prescriptions*
+│   │   ├── *Fitness*
+│   │   │   ├── Workout-Plans
+│   │   │   ├── Progress-Tracking
+│   │   │   └── Diet-Plans
+│   │   ├── *Nutrition*
+│   │   ├── /Mental-Health/
+│   │   │   ├── /Therapy-Notes/
+│   │   │   └── Meditation
+│   │   └── *(Health-) Insurance*
+│   │       ├── Policies
+│   │       ├── Claims
+│   │       └── Receipts
+│   ├── Relationships (or Family-&-Relationships, or Social-and-Events)
+│   │   ├── *Family*
+│   │   │   ├── Birth-Certificates
+│   │   │   └── Family-Tree
+│   │   └── Friends
+│   │       ├── Festivals and Markets
+│   │       │   └── Event schedules, tickets, etc.
+│   │       └── Invitations and Event Schedules
+│   ├── *Family*
+│   │   ├── Children's-Documents (or Kids'-Documents)
+│   │   └── Family-Photos
+│   ├── *Travel*
+│   │   ├── *Trips (or Itineraries)*
+│   │   ├── Bookings (Flights, Hotels, etc.)
+│   │   ├── *Travel Documents* (Passports, Visas, Travel Insurance)
+│   │   ├── Packing-Lists
+│   │   ├── Photo(s)-Album
+│   │   └── Travel-Photos
+│   ├── *Hobbies*
+│   │   ├── *Photography*
+│   │   ├── Painting
+│   │   ├── Music
+│   │   ├── *Cooking*
+│   │   │   ├── *Recipes*
+│   │   │   ├── Meal-Plans
+│   │   │   └── Grocery-(Shopping)-Lists
+│   │   ├── *Gardening*
+│   │   │   ├── Plant-Care-Guides
+│   │   │   └── Garden-Plans
+│   │   ├── Sports
+│   │   │   └── Biking
+│   │   ├── Crafts
+│   │   └── Social-Media
+│   ├── *Home (Projects)*
+│   │   ├── Property-Documents (or House-Documents or Mortgage-Documents)
+│   │   ├── *Renovation(s)-(Projects)*
+│   │   ├── *Maintenance*
+│   │   │   ├── Seasonal-Checklists
+│   │   │   └── Repair-Records
+│   │   ├── Home-Insurance
+│   │   ├── Gardening-Projects
+│   │   └── *Utilities*
+│   ├── Projects
+│   │   └── Home-Improvements
+│   │       ├── Kitchen-Renovation
+│   │       ├── Garden-Landscaping
+│   │       └── DIY-Furniture
+│   ├── *Education* (and Learning)
+│   │   ├── *Courses*
+│   │   │   └── Hypnosis
+│   │   └── *Certifications* (or Certificates-&-Diplomas)
+│   └── Shopping
+│       ├── Electronics-and-Equipment
+│       ├── Media-and-Entertainment
+│       └── Well-being-and-Lifestyle
 └── *Work* (+ Company Name?)
     ├── *Projects*
-        ├── *Project-A*
-                *WIP*
-                *Final*
-                *Archive*
-        ├── *Project-B*
-        └── Project-Templates
+    │   ├── *Project-A*
+    │   │   ├── *WIP*
+    │   │   ├── *Final*
+    │   │   └── *Archive*
+    │   ├── *Project-B*
+    │   └── Project-Templates
     ├── *Admin* (or *Administration*)
-        ├── Timesheets
-        ├── *Contracts*
-        └── Legal-Documents
+    │   ├── Timesheets
+    │   ├── *Contracts*
+    │   └── Legal-Documents
     ├── *Finance*
-        ├── *Expenses* (for money going out)
-                2024
-                    January
-                        2024-01-20_ClientName_Invoice.pdf
-        ├── *Invoices* (for money coming in)
-                2024
-                    January
+    │   ├── *Expenses* (for money going out)
+    │   │   └── 2024
+    │   │       └── January
+    │   │           └── 2024-01-20_ClientName_Invoice.pdf
+    │   ├── *Invoices* (for money coming in)
+    │   │   └── 2024
+    │   │       └── January
                         2024-01-15_SupplierName_Invoice.pdf
 
                         *Recommended File Naming Format*
@@ -178,22 +219,21 @@ Things to find:
 
                         Example
                         ABCCompany_Invoice_202310_01_JohnDoe_$150.00.pdf
-
-        ├── *Bank-Statements*
-        └── *Tax-Documents* (or Taxes)
+    │   ├── *Bank-Statements*
+    │   └── *Tax-Documents* (or Taxes)
     ├── Human-Resources
-        └── HR-Documents
     ├── Clients
-        ├── Client-A
-        └── Client-B
+    │   ├── Client-A
+    │   └── Client-B
     ├── *Meetings* (and Events)
-        ├── Meeting-Notes (or Meeting-Minutes)
-        └── Agendas
+    │   ├── Meeting-Notes (or Meeting-Minutes)
+    │   └── Agendas
     ├── Marketing
-    ├── *Training* (or *Education* or Education-&-Training)
-        └── Workshop-Materials
+    ├── *Training* (or *Education*, or Education-&-Training, or Professional-Development)
+    │   ├── Certifications-and-Courses
+    │   └── Workshop-Materials
+    ├── Learning Resources
     └── Travel
-
 
 50-59: *Media*
    50-51: Photos
