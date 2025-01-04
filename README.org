@@ -85,20 +85,20 @@ Things to find:
 │   ├── Administration
 │   │   ├── Identification
 │   │   ├── Legal-Documents
-│   │   ├── Licenses
+│   │   └── Licenses
 │   ├── *Finance*
 │   │   ├── *Expenses* (or Utilities, or Utility-Bills)
 │   │   │   ├── Electricity-Bills
 │   │   │   ├── Water-Bills
 │   │   │   └── Internet-Bills
 │   │   ├── *Budgeting* (or Budget-&-Expenses)
-│   │   │   └── 2024
+│   │   │   └── 2025
 │   │   ├── *Bank-Statements*
-│   │   │   └── 2024
+│   │   │   └── 2025
 │   │   ├── *Tax-Documents* (or Taxes)
-│   │   │   └── 2024
+│   │   │   └── 2025
 │   │   ├── *Investments*
-│   │   │   └── 2024
+│   │   │   └── 2025
 │   │   └── *Insurance*
 │   │       ├── *Health-Insurance*
 │   │       │   ├── Policies
@@ -174,7 +174,6 @@ Things to find:
 │   │   ├── *Maintenance*
 │   │   │   ├── Seasonal-Checklists
 │   │   │   └── Repair-Records
-│   │   ├── Home-Insurance XXX
 │   │   ├── Gardening-Projects
 │   │   └── *Utilities*
 │   ├── Projects
@@ -204,13 +203,13 @@ Things to find:
     │   └── Legal-Documents
     ├── *Finance*
     │   ├── *Expenses* (for money going out)
-    │   │   └── 2024
+    │   │   └── 2025
     │   │       └── January
-    │   │           └── 2024-01-20_ClientName_Invoice.pdf
+    │   │           └── 2025-01-20_ClientName_Invoice.pdf
     │   ├── *Invoices* (for money coming in)
-    │   │   └── 2024
+    │   │   └── 2025
     │   │       └── January
-                        2024-01-15_SupplierName_Invoice.pdf
+                        2025-01-15_SupplierName_Invoice.pdf
 
                         *Recommended File Naming Format*
                         CompanyName_Invoice_YYYYMM_##ClientName_$Amount.pdf
