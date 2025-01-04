@@ -132,14 +132,13 @@ Things to find:
 │   │   │   └── Meditation
 │   ├── Relationships (or Family-&-Relationships, or Social-and-Events)
 │   │   ├── *Family*
-│   │   │   ├── Birth-Certificates
-│   │   │   └── Family-Tree
 │   │   └── Friends
 │   │       ├── Festivals-and-Markets
 │   │       │   └── Event schedules, tickets, brochures, etc.
 │   │       └── Invitations-and-Event-Schedules
 │   ├── *Family*
 │   │   ├── Children's-Documents
+│   │   │   ├── Birth-Certificates
 │   │   │   ├── *School-Records*
 │   │   │   ├── *Medical-Records*
 │   │   │   ├── Artwork
