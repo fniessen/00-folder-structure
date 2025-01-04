@@ -109,7 +109,6 @@ Things to find:
 │   │       ├── Home-Insurance
 │   │       ├── Phone-Insurance
 │   │       ├── Life-Insurance
-│   │       ├── Travel-Insurance
 │   │       ├── Pet-Insurance
 │   │       ├── Renters-Insurance
 │   │       ├── *Dental-Insurance*
@@ -143,7 +142,10 @@ Things to find:
 │   ├── *Travel*
 │   │   ├── *Trips (or Itineraries)*
 │   │   ├── Bookings (Flights, Hotels, etc.)
-│   │   ├── *Travel Documents* (Passports, Visas, Travel Insurance)
+│   │   ├── *Travel-Documents*
+│   │   │   ├── Passports
+│   │   │   ├── Visas
+│   │   │   └── Travel-Insurance
 │   │   ├── Packing-Lists
 │   │   ├── Photo(s)-Album
 │   │   └── Travel-Photos
