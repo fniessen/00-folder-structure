@@ -91,7 +91,7 @@ Things to find:
 │   │   │   ├── Electricity-Bills
 │   │   │   ├── Water-Bills
 │   │   │   └── Internet-Bills
-│   │   ├── *Budgeting* (or Budget-&-Expenses)
+│   │   ├── *Budgeting* (or Budget-and-Expenses)
 │   │   │   └── 2025
 │   │   ├── *Bank-Statements*
 │   │   │   └── 2025
@@ -129,7 +129,7 @@ Things to find:
 │   │   ├── /Mental-Health/
 │   │   │   ├── /Therapy-Notes/
 │   │   │   └── Meditation
-│   ├── Family-&-Relationships
+│   ├── Family-and-Relationships
 │   │   ├── *Family*
 │   │   │   ├── Children's-Documents
 │   │   │   │   ├── Birth-Certificates
@@ -152,7 +152,7 @@ Things to find:
 │   │   ├── Packing-Lists
 │   │   ├── Photo(s)-Album
 │   │   └── Travel-Photos
-│   ├── *Hobbies* (& Interests)
+│   ├── *Hobbies* (and Interests)
 │   │   ├── *Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
@@ -184,11 +184,34 @@ Things to find:
 │   ├── *Education* (and Learning)
 │   │   ├── *Courses*
 │   │   │   └── Hypnosis
-│   │   └── *Certifications* (or Certificates-&-Diplomas)
-│   └── Shopping (for Shopping lists, receipts, warranties, or wish lists)
+│   │   └── *Certifications* (or Certificates-and-Diplomas)
+│   └── Shopping
+│       ├── Shopping-Administration
+│       │   ├── Shopping-Lists
+│       │   ├── Receipts
+│       │   ├── Warranties
+│       │   └── Wish-Lists
 │       ├── Electronics-and-Equipment
+│       │   ├── Computers
+│       │   ├── Smartphones
+│       │   ├── Audio-Equipment
+│       │   ├── Camera-and-Photography-Gear
+│       │   ├── Home-Appliances
+│       │   └── Accessories-and-Peripherals
 │       ├── Media-and-Entertainment
+│       │   ├── Books
+│       │   ├── Music
+│       │   ├── Movies-and-Films
+│       │   ├── Video-Games
+│       │   ├── Streaming-Subscriptions
+│       │   └── Digital-Media-Purchases
 │       └── Well-being-and-Lifestyle
+│           ├── Fitness-Equipment
+│           ├── Health-Supplements
+│           ├── Clothing
+│           ├── Personal-Care
+│           ├── Nutrition-and-Food
+│           └── Wellness-Products
 └── *Work* (+ Company Name?)
     ├── *Projects*
     │   ├── *Project-A*
@@ -238,7 +261,7 @@ Things to find:
     │   ├── Meeting-Notes (or Meeting-Minutes)
     │   └── Agendas
     ├── Marketing
-    ├── *Training* (or *Education*, or Education-&-Training, or Professional-Development)
+    ├── *Training* (or *Education*, or Education-and-Training, or Professional-Development)
     │   ├── Certifications-and-Courses
     │   └── Workshop-Materials
     ├── Learning Resources
