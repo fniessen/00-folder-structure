@@ -83,14 +83,17 @@ Things to find:
 /Documents
 ├── *Personal*
 │   ├── 10-19-Administration
-│   │   ├── Identification
-│   │   ├── Legal-Documents
-│   │   └── Licenses
+│   │   ├── 11-Identification (such as birth certificates, etc.)
+│   │   ├── 12-Legal-Documents (such as wills, deeds, marriage certificates, etc.)
+│   │   ├── 13-Licenses
+│   │   ├── *Contracts*
+│   │   └── Voting-Registration
 │   ├── *20-29-Finance*
 │   │   ├── *Expenses* (or Utilities, or Utility-Bills)
 │   │   │   ├── Electricity-Bills
 │   │   │   ├── Water-Bills
-│   │   │   └── Internet-Bills
+│   │   │   ├── Internet-Bills
+│   │   │   └── Subscriptions
 │   │   ├── *Budgeting* (or Budget-and-Expenses)
 │   │   │   └── 2025
 │   │   ├── *Bank-Statements*
@@ -150,10 +153,9 @@ Things to find:
 │   │   │   ├── Visas
 │   │   │   └── Travel-Insurance
 │   │   ├── Packing-Lists
-│   │   ├── Photo(s)-Album
-│   │   └── Travel-Photos
+│   │   └── *Travel-Photos*
 │   ├── *Hobbies* (and Interests)
-│   │   ├── *Photography*
+│   │   ├── *0-Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
 │   │   ├── Crafts
@@ -162,6 +164,9 @@ Things to find:
 │   │   │   ├── Books-Read
 │   │   │   └── Reading-Notes
 │   │   ├── *Music*
+│   │   │   ├── Piano-Practice
+│   │   │   ├── Music-Theory
+│   │   │   └── Sheet-Music
 │   │   ├── *Gardening*
 │   │   │   ├── Plant-Care-Guides
 │   │   │   └── Garden-Plans
@@ -171,24 +176,32 @@ Things to find:
 │   │   │   ├── *Recipes*
 │   │   │   ├── Meal-Plans
 │   │   │   └── Grocery-(Shopping)-Lists
-│   │   └── Social-Media
+│   │   ├── Social-Media
+│   │   └── Volunteering-and-Community-Projects
 │   ├── *Home*
-│   │   ├── Property-Documents (or House-Documents or Mortgage-Documents)
-│   │   ├── *Renovation(s)-(Projects)*
-│   │   ├── *Maintenance*
+│   │   ├── 0-Property-Documents (or House-Documents or Mortgage-Documents)
+│   │   ├── *1-Utilities*
+│   │   ├── *2-Maintenance*
 │   │   │   ├── Seasonal-Checklists
 │   │   │   └── Repair-Records
-│   │   ├── Gardening-Projects
-│   │   └── *Utilities*
-│   ├── Projects
-│   │   └── Home-Improvements
+│   │   └── *3-Renovation-Projects*
 │   │       ├── Kitchen-Renovation
 │   │       ├── Garden-Landscaping
 │   │       └── DIY-Furniture
 │   ├── *Education* (and Learning)
-│   │   ├── *Courses*
+│   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
-│   │   └── *Certifications* (or Certificates-and-Diplomas)
+│   │   ├── *Certifications* (or *Certificates-and-Diplomas*)
+│   │   └── Research-and-Learning-Resources
+│   ├── Career
+│   │   ├── Resumes-and-Cover-Letters
+│   │   ├── Job-Applications
+│   │   ├── Networking-and-Contacts
+│   │   ├── Work-Samples-and-Portfolios
+│   │   ├── Professional-Development
+│   │   ├── Employment-Contracts
+│   │   ├── Performance-Reviews
+│   │   └── Career-Planning
 │   └── 90-99-Shopping
 │       ├── Shopping-Administration
 │       │   ├── Shopping-Lists
@@ -205,8 +218,8 @@ Things to find:
 │       ├── Media-and-Entertainment
 │       │   ├── Books
 │       │   ├── Music
-│       │   ├── Movies-and-Films
-│       │   ├── Video-Games
+│       │   ├── Movies
+│       │   ├── Games
 │       │   ├── Streaming-Subscriptions
 │       │   └── Digital-Media-Purchases
 │       └── Well-being-and-Lifestyle
@@ -224,7 +237,7 @@ Things to find:
     │   │   └── *Archive*
     │   ├── *Project-B*
     │   └── Project-Templates
-    ├── *Admin* (or *Administration*)
+    ├── *Administration*
     │   ├── Timesheets
     │   ├── *Contracts*
     │   └── Legal-Documents
@@ -257,15 +270,15 @@ Things to find:
     │   └── *Insurance*
     │       ├── Disability-Insurance
     │       └── Business-Insurance
-    ├── Human-Resources
+    ├── *Human-Resources*
     ├── Clients
     │   ├── Client-A
     │   └── Client-B
     ├── *Meetings* (and Events)
-    │   ├── Meeting-Notes (or Meeting-Minutes)
+    │   ├── *Meeting-Notes*
     │   └── Agendas
-    ├── Marketing
-    ├── *Training* (or *Education*, or Education-and-Training, or Professional-Development)
+    ├── *Marketing*
+    ├── *Training* (or *Education*, or Education-and-Training, or *Professional-Development*)
     │   ├── Certifications-and-Courses
     │   └── Workshop-Materials
     ├── Learning Resources
