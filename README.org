@@ -156,21 +156,21 @@ Things to find:
 │   │   ├── *Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
+│   │   ├── Crafts
 │   │   ├── Reading
 │   │   │   ├── Books-to-Read
 │   │   │   ├── Books-Read
 │   │   │   └── Reading-Notes
 │   │   ├── *Music*
-│   │   ├── *Cooking*
-│   │   │   ├── *Recipes*
-│   │   │   ├── Meal-Plans
-│   │   │   └── Grocery-(Shopping)-Lists
 │   │   ├── *Gardening*
 │   │   │   ├── Plant-Care-Guides
 │   │   │   └── Garden-Plans
 │   │   ├── Sports
 │   │   │   └── Biking
-│   │   ├── Crafts
+│   │   ├── *Cooking*
+│   │   │   ├── *Recipes*
+│   │   │   ├── Meal-Plans
+│   │   │   └── Grocery-(Shopping)-Lists
 │   │   └── Social-Media
 │   ├── *Home*
 │   │   ├── Property-Documents (or House-Documents or Mortgage-Documents)
