@@ -82,11 +82,11 @@ Things to find:
 
 /Documents
 ├── *Personal*
-│   ├── Administration
+│   ├── 10-19-Administration
 │   │   ├── Identification
 │   │   ├── Legal-Documents
 │   │   └── Licenses
-│   ├── *Finance*
+│   ├── *20-29-Finance*
 │   │   ├── *Expenses* (or Utilities, or Utility-Bills)
 │   │   │   ├── Electricity-Bills
 │   │   │   ├── Water-Bills
@@ -116,7 +116,7 @@ Things to find:
 │   │       ├── Vision-Insurance
 │   │       ├── Long-Term-Care-Insurance
 │   │       └── Critical-Illness-Insurance (under Work?)
-│   ├── *Health*
+│   ├── *30-39-Health*
 │   │   ├── *Medical-Records*
 │   │   │   ├── Doctor-Visits
 │   │   │   └── Lab-Results
@@ -129,7 +129,7 @@ Things to find:
 │   │   ├── /Mental-Health/
 │   │   │   ├── /Therapy-Notes/
 │   │   │   └── Meditation
-│   ├── Family-and-Relationships
+│   ├── 40-49-Family-and-Relationships
 │   │   ├── *Family*
 │   │   │   ├── Children's-Documents
 │   │   │   │   ├── Birth-Certificates
@@ -189,7 +189,7 @@ Things to find:
 │   │   ├── *Courses*
 │   │   │   └── Hypnosis
 │   │   └── *Certifications* (or Certificates-and-Diplomas)
-│   └── Shopping
+│   └── 90-99-Shopping
 │       ├── Shopping-Administration
 │       │   ├── Shopping-Lists
 │       │   ├── Receipts
