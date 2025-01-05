@@ -156,6 +156,10 @@ Things to find:
 │   │   ├── *Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
+│   │   ├── Reading
+│   │   │   ├── Books-to-Read
+│   │   │   ├── Books-Read
+│   │   │   └── Reading-Notes
 │   │   ├── *Music*
 │   │   ├── *Cooking*
 │   │   │   ├── *Recipes*
