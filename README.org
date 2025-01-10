@@ -116,8 +116,8 @@ Things to find:
 │   │   │   └── 2025
 │   │   └── *Insurance*
 │   │       ├── *Health-Insurance*
-│   │       │   ├── Policies
-│   │       │   ├── Claims
+│   │       │   ├── *Policies*
+│   │       │   ├── *Claims*
 │   │       │   └── Receipts
 │   │       │       ├── Premiums
 │   │       │       └── Reimbursements
@@ -193,13 +193,19 @@ Things to find:
 │   ├── *Home*
 │   │   ├── 0-Property-Documents (or House-Documents or Mortgage-Documents)
 │   │   ├── *1-Utilities*
-│   │   ├── *2-Maintenance*
-│   │   │   ├── Seasonal-Checklists
-│   │   │   └── Repair-Records
+│   │   ├── *2-Maintenance* (for Repairs, Checklists)
 │   │   └── *3-Renovation-Projects*
 │   │       ├── Kitchen-Renovation
 │   │       ├── Garden-Landscaping
 │   │       └── DIY-Furniture
+
+    │   ├── 11-Property-Documents (for Deeds, Titles, etc.)
+    │   ├── 12-Utilities (for Electricity, Water, etc.)
+    │   ├── 13-Maintenance
+    │   ├── 14-Renovations (Projects, Plans)
+    │   └── 15-Home-Insurance
+
+
 │   ├── *Education* (and Learning)
 │   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
@@ -296,6 +302,25 @@ Things to find:
     ├── Learning Resources
     └── Travel
 
+    Accouting
+    HR
+    Marketing
+    Sales
+    Contracts
+    Team-Resources
+    Client-1
+    Materials-from-Clients (or Client-Input)
+    Work-in-Progress
+    Final-Deliverables
+
+
+    Client-1
+        Project-1
+            01-Design
+            02-Resources
+            03-Proofs
+            04-Production
+
 50-59: *Media*
    50-51: Photos
       50.01: Family Photos
@@ -318,6 +343,48 @@ Things to find:
       58.02: Audiobooks
       58.03: Other Media Files
 
+Some common conventions and best practices for folder naming in structures across operating systems that keep file and folder organization consistent and efficient:
+
+The CamelCase convention capitalizes the first letter of each word in a folder or file name without spaces. For example: MyDocuments, ProjectFiles.
+The snake_case convention uses lowercase letters and underscores (_) to separate words in folder or file names. For example: user_profile, product_catalog.
+Similar to snake_case, kebab-case separates words with hyphens (-) instead of underscores. For example: user-profile, product-catalog.
+The dot.notation separates words in folder or file names with dots (.) and is commonly used in web development to name files and directories related to packages or namespaces. For example: com.example.app, my_project.utilities.
+Prefixes or suffixes can indicate the type or purpose of a folder or file. For example: src for source code or docs for documentation.
+Version numbers can clarify projects with multiple versions or releases, for example: v1.0, v2.0, release-3.0.
+Date-based or chronological systems organize files or folders chronologically. For example: 2023-09-01 for September 1, 2023, or 2023-09 for the entire month of September 2023.
+
+
+* COTA Folder Structure
+
+- Clients
+  + Client A
+    - Projects
+    - Correspondence
+    - Contracts
+  + Client B
+    - Projects
+    - Correspondence
+    - Contracts
+  + Client C
+    - Projects
+    - Correspondence
+    - Contracts
+- Output
+  + Products
+  + Services
+  + Deliverables
+- Teams
+  + Marketing
+  + Sales
+  + Development
+  + Human Resources
+- Administration
+  + Policies
+  + Procedures
+  + Forms
+  + IT Support
+  + Expenses
+
 * First-level folder names in GitHub projects
 
 By using these folder names, developers ensure their projects follow
@@ -329,7 +396,7 @@ navigate and understand the project:
 - ~docs/~
   + Includes *project documentation* such as guides, API references, or README
     files.
-- ~tests/~ or ~test/~
+- ~tests/~ (or ~test/~)
   + Contains unit, integration, and/or end-to-end *tests*.
 - ~build/~ (or ~dist~)
   + Used for build outputs or *compiled* artifacts.
@@ -345,7 +412,7 @@ navigate and understand the project:
 - ~scripts/~
   + Houses *utility scripts* for tasks like deployment, data migration, or *build
     processes*.
-- tools/?
+- ~tools/~?
 
 Some projects also include:
 
