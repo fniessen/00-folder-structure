@@ -136,6 +136,7 @@ Things to find:
 │   │   │   ├── Doctor-Visits
 │   │   │   └── Lab-Results
 │   │   ├── *Prescriptions*
+│   │   ├── *Health-Insurance* ???
 │   │   ├── *Fitness*
 │   │   │   ├── Workout-Plans
 │   │   │   ├── Progress-Tracking
@@ -191,21 +192,14 @@ Things to find:
 │   │   ├── Social-Media
 │   │   └── Volunteering-and-Community-Projects
 │   ├── *Home*
-│   │   ├── 0-Property-Documents (or House-Documents or Mortgage-Documents)
-│   │   ├── *1-Utilities*
-│   │   ├── *2-Maintenance* (for Repairs, Checklists)
-│   │   └── *3-Renovation-Projects*
-│   │       ├── Kitchen-Renovation
-│   │       ├── Garden-Landscaping
-│   │       └── DIY-Furniture
-
-    │   ├── 11-Property-Documents (for Deeds, Titles, etc.)
-    │   ├── 12-Utilities (for Electricity, Water, etc.)
-    │   ├── 13-Maintenance
-    │   ├── 14-Renovations (Projects, Plans)
-    │   └── 15-Home-Insurance
-
-
+│   │   ├── *0-Property-Documents* (or House-Documents): Deed, mortgage documents, and title.
+│   │   ├── *1-Utilities*: Electricity, gas, water, and internet bills.
+│   │   ├── *2-Maintenance* (and Repairs): Logs, receipts, warranties, and service agreements.
+│   │   ├── *3-Renovations*: Plans, quotes, and invoices for major upgrades.
+│   │   │   ├── Kitchen-Renovation
+│   │   │   ├── Garden-Landscaping
+│   │   │   └── DIY-Furniture
+│   │   └── 4-Home-Insurance ???
 │   ├── *Education* (and Learning)
 │   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
@@ -289,18 +283,67 @@ Things to find:
     │       ├── Disability-Insurance
     │       └── Business-Insurance
     ├── *Human-Resources*
+             Employee-Contracts
+             Payroll
+             Training-Materials
+         Policies
+             Company Policies (Internal policies, compliance procedures)
+             Security Policies (Data security, access control policies)
+             Privacy Policies (Privacy statements, GDPR compliance)
     ├── Clients
     │   ├── Client-A
+                 Project-Files
+                 Project-Details
+                 *Deliverables*
+                     Final-Deliverables
+                     Revisions
+                     Feedback
+                 Timelines
+                 Correspondence
+                     Emails
+                     Meeting-Notes
+                     Calls-Logs
+                 *Contracts*
+                     Signed-Contracts
+                     Agreements
+                     Amendments
+                 Client-Expenses (Billing, reimbursements, cost allocations)
+
     │   └── Client-B
+         Products
+              Product-A
+                  Specifications
+                  Product-Details
+                  Marketing-Materials
+         Services
+              Service-A
+                  Service-Descriptions
+                  Pricing
+                  Service-Agreements
     ├── *Meetings* (and Events)
     │   ├── *Meeting-Notes*
     │   └── Agendas
     ├── *Marketing*
+             Campaign-Plans (Campaign strategies, advertising materials, planning)
+             Content-Strategy (Blog posts, social media content, copywriting)
+             Social-Media-Assets
+             Branding (Logos, color schemes, design guides)
+         Sales
+             Sales-Strategy (Sales plans, target markets, pitch decks)
+             Leads (Prospect lists, follow-ups, meeting notes)
+             Deals (Negotiations, contracts, closed deals)
+
+Development
+    Codebase (Source code, development environment setups, tools)
+    Documentation (Technical documentation, code comments, API docs)
+
+
     ├── *Training* (or *Education*, or Education-and-Training, or *Professional-Development*)
     │   ├── Certifications-and-Courses
     │   └── Workshop-Materials
     ├── Learning Resources
     └── Travel
+             Travel Expenses (Travel receipts, bookings, reimbursements)
 
     Accouting
     HR
@@ -310,7 +353,8 @@ Things to find:
     Team-Resources
     Client-1
     Materials-from-Clients (or Client-Input)
-    Work-in-Progress
+    Work-in-Progress (or Ongoing-Work)
+    Project-Timelines
     Final-Deliverables
 
 
