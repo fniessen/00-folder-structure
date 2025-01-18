@@ -103,6 +103,7 @@ Things to find:
 │   ├── *20-29-Finance*
 │   │   ├── *Expenses* (or Utilities, or Utility-Bills)
 │   │   │   ├── Electricity-Bills
+│   │   │   ├── Gas-Bills
 │   │   │   ├── Water-Bills
 │   │   │   ├── Internet-Bills
 │   │   │   └── Subscriptions
@@ -145,8 +146,9 @@ Things to find:
 │   │   ├── /Mental-Health/
 │   │   │   ├── /Therapy-Notes/
 │   │   │   └── Meditation
-│   ├── 40-49-Family-and-Relationships
-│   │   ├── *Family*
+│   ├── 40-49-Social-Relationships
+│   │   ├── 41-Romantic-Relationships
+│   │   ├── 42-*Family*
 │   │   │   ├── Children's-Documents
 │   │   │   │   ├── Birth-Certificates
 │   │   │   │   ├── *School-Records*
@@ -154,9 +156,8 @@ Things to find:
 │   │   │   │   ├── Artwork
 │   │   │   │   └── Extracurricular-Activities
 │   │   │   └── Family-Photos
-│   │   └── *Friends*
-│   │       ├── Festivals-and-Markets
-│   │       │   └── Event schedules, tickets, brochures, etc.
+│   │   ├── 43-*Friends*
+│   │   └── 44-Social-Network
 │   │       └── Invitations-and-Event-Schedules
 │   ├── *Travel*
 │   │   ├── *Trips (or Itineraries)*
@@ -168,7 +169,7 @@ Things to find:
 │   │   ├── Packing-Lists
 │   │   └── *Travel-Photos*
 │   ├── *Hobbies* (and Interests)
-│   │   ├── *0-Photography*
+│   │   ├── *1-Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
 │   │   ├── Crafts
@@ -191,15 +192,22 @@ Things to find:
 │   │   │   └── Grocery-(Shopping)-Lists
 │   │   ├── Social-Media
 │   │   └── Volunteering-and-Community-Projects
+
+50-59 Operations: Day-to-day running of your rental activities.
+    51.11 Rental Agreements: Lease agreements, contracts.
+    51.12 Maintenance and Repairs: Logs, receipts, invoices for repairs.
+    51.13 Finances: Invoices, income tracking, and tax documents.
+    51.14 Guest Information: House rules, welcome letters, manuals.
+
 │   ├── *Home*
-│   │   ├── *0-Property-Documents* (or House-Documents): Deed, mortgage documents, and title.
-│   │   ├── *1-Utilities*: Electricity, gas, water, and internet bills.
-│   │   ├── *2-Maintenance* (and Repairs): Logs, receipts, warranties, and service agreements.
-│   │   ├── *3-Renovations*: Plans, quotes, and invoices for major upgrades.
+│   │   ├── *1-Property-Documents* (or House-Documents): Deed, mortgage documents, and title.
+│   │   ├── *2-Utilities*: Electricity, gas, water, and internet bills.
+│   │   ├── *3-Maintenance* (and Repairs): Logs, receipts, warranties, and service agreements.
+│   │   ├── *4-Renovations*: Plans, quotes, and invoices for major upgrades.
 │   │   │   ├── Kitchen-Renovation
 │   │   │   ├── Garden-Landscaping
 │   │   │   └── DIY-Furniture
-│   │   └── 4-Home-Insurance ???
+│   │   └── 5-Home-Insurance ???
 │   ├── *Education* (and Learning)
 │   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
