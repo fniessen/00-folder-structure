@@ -208,10 +208,10 @@ Things to find:
 │   │   │   ├── Garden-Landscaping
 │   │   │   └── DIY-Furniture
 │   │   └── 5-Home-Insurance ???
-│   ├── *Education* (and Learning)
+│   ├── *Education* (and Learning, and Personal Development)
 │   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
-│   │   ├── *Certifications* (or *Certificates-and-Diplomas*)
+│   │   ├── *Certifications-and-Diplomas*
 │   │   └── Research-and-Learning-Resources
 │   ├── Career
 │   │   ├── Resumes-and-Cover-Letters
