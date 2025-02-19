@@ -159,16 +159,16 @@ Things to find:
 │   │   ├── 43-*Friends*
 │   │   └── 44-Social-Network
 │   │       └── Invitations-and-Event-Schedules
-│   ├── *Travel*
+│   ├── 50-59-*Travel*
 │   │   ├── *Trips (or Itineraries)*
 │   │   ├── Bookings (Flights, Hotels, etc.)
 │   │   ├── *Travel-Documents*
 │   │   │   ├── Passports
 │   │   │   ├── Visas
 │   │   │   └── Travel-Insurance
-│   │   ├── Packing-Lists
+│   │   ├── Packing-Lists (or Checklists?)
 │   │   └── *Travel-Photos*
-│   ├── *Hobbies* (and Interests)
+│   ├── 60-69-*Hobbies* (and Interests)
 │   │   ├── *1-Photography*
 │   │   ├── Painting
 │   │   ├── *Writing*
@@ -199,21 +199,22 @@ Things to find:
     51.13 Finances: Invoices, income tracking, and tax documents.
     51.14 Guest Information: House rules, welcome letters, manuals.
 
-│   ├── *Home*
-│   │   ├── *1-Property-Documents* (or House-Documents): Deed, mortgage documents, and title.
-│   │   ├── *2-Utilities*: Electricity, gas, water, and internet bills.
-│   │   ├── *3-Maintenance* (and Repairs): Logs, receipts, warranties, and service agreements.
-│   │   ├── *4-Renovations*: Plans, quotes, and invoices for major upgrades.
+│   ├── 70-79-*Home*
+│   │   ├── *71-Property-Documents* (or House-Documents or Property-Records): Property deed, mortgage documents, and title.
+│   │   ├── *72-Utilities*: Electricity, gas, water, and internet bills.
+│   │   ├── *73-Maintenance* (and Repairs): Logs, receipts, warranties, and service agreements.
+│   │   │   ├── Plumbing
+│   │   │   └── HVAC
+│   │   ├── *74-Renovations*: Architectural plans, building permits, quotes, invoices, and project tracking for major upgrades.
 │   │   │   ├── Kitchen-Renovation
 │   │   │   ├── Garden-Landscaping
 │   │   │   └── DIY-Furniture
-│   │   └── 5-Home-Insurance ???
-│   ├── *Education* (and Learning, and Personal Development)
+│   │   └── 75-Home-Insurance ???
+│   ├── 80-89-*Education-and-Career* (and Learning, and Personal Development)
 │   │   ├── *Courses* (or Courses-and-Workshops)
 │   │   │   └── Hypnosis
 │   │   ├── *Certifications-and-Diplomas*
-│   │   └── Research-and-Learning-Resources
-│   ├── Career
+│   │   ├── Research-and-Learning-Resources
 │   │   ├── Resumes-and-Cover-Letters
 │   │   ├── Job-Applications
 │   │   ├── Networking-and-Contacts
