@@ -6,6 +6,48 @@
 #+LANGUAGE:  en
 #+OPTIONS:   H:4 num:nil
 
+* Tasks
+
+** TODO Tag every files (denote?)
+
+https://unix.stackexchange.com/questions/388108/how-to-tag-everything-stored-in-a-linux-filesystem
+
+Denote:
+
+=DATE--TITLE__KEYWORDS.EXTENSION=
+
+- =20220610T043241--initial-thoughts-on-the-zettelkasten-method__notetaking.org=
+- =20220610T062201--define-custom-org-hyperlink-type__denote_emacs_package.md=
+- =20220610T162327--on-hierarchy-and-taxis__notetaking_philosophy.txt=
+
+The different field separators, namely ~--~ and ~__~ introduce an efficient way to
+anchor searches. A query for ~_word~ always matches a keyword.
+
+=<Date>_<ProjectName>_<DocumentType>_<AdditionalInfo>.<Extension>=
+
+- =<Date>=: This placeholder represents the date of the document, typically in
+  a standardized format like YYYY-MM-DD.
+- =<ProjectName>=: This placeholder represents the name of the project associated
+  with the document.
+- =<DocumentType>=: This placeholder represents the type of document, such as
+  "Report," "Presentation," "Proposal," etc.
+- =<AdditionalInfo>=: This placeholder represents any additional information you
+  want to include, such as version numbers, author initials, or other relevant
+  details.
+- =<Extension>=: This represents the file extension (e.g., .docx, .pdf, .xlsx)
+  indicating the file type.
+
+=2024-04-02_IMG_CentralPark_JohnDoe_SusanSmith_Squirrel.jpg=
+
+- =2024-04-02= is the date when the photo was taken, placed at the beginning of
+  the filename.
+- =IMG= is still a general prefix indicating that the file is an image.
+- =CentralPark= denotes the location where the photo was taken.
+- =JohnDoe= and =SusanSmith= denote the photographers or individuals depicted in the
+  photo.
+- =Squirrel= denotes the subject of the image.
+- =.jpg= is the file extension indicating the file format (JPEG).
+
 * Index
 :PROPERTIES:
 :ID:       fafd0ce1-480b-405f-a3a7-c7caf1615e07
@@ -405,7 +447,6 @@ The dot.notation separates words in folder or file names with dots (.) and is co
 Prefixes or suffixes can indicate the type or purpose of a folder or file. For example: src for source code or docs for documentation.
 Version numbers can clarify projects with multiple versions or releases, for example: v1.0, v2.0, release-3.0.
 Date-based or chronological systems organize files or folders chronologically. For example: 2023-09-01 for September 1, 2023, or 2023-09 for the entire month of September 2023.
-
 
 * COTA Folder Structure
 
