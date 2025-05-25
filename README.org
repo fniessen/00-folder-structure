@@ -241,6 +241,38 @@ Things to find:
     51.13 Finances: Invoices, income tracking, and tax documents.
     51.14 Guest Information: House rules, welcome letters, manuals.
 
+Catégories
+- 10-19 : Administration et Finance
+  + 10 : Gestion des finances personnelles
+  + 11 : Gestion des finances professionnelles
+  + 12 : Suivi des paiements
+  + 13 : Gestion des budgets
+  + 14 : Préparation des déclarations fiscales
+  + 15 : Gestion des courriels
+  + 16 : Planification des réunions
+  + 17 : Gestion des documents
+  + 18 : Gestion des contacts
+- 20-29 : Communication et Projets
+  + 20 : Rédaction et envoi de courriels
+  + 21 : Rédaction de rapports
+  + 22 : Préparation de présentations
+  + 23 : Planification des projets
+  + 24 : Organisation des tâches
+  + 25 : Suivi et réalisation des objectifs
+- 30-39 : Créativité
+  + 30 : Écriture
+  + 31 : Conception graphique
+  + 32 : Production de vidéos
+  + 33 : Composition musicale
+- 40-49 : Développement personnel
+  + 40 : Lecture de livres
+  + 41 : Apprentissage de nouvelles compétences
+  + 42 : Participation à des formations
+- 50-59 : Santé et bien-être
+  + 50 : Exercices physiques
+  + 51 : Préparation de repas sains
+  + 52 : Planification de temps de relaxation
+
 │   ├── 70-79-*Home*
 │   │   ├── *71-Property-Documents* (or House-Documents or Property-Records): Property deed, mortgage documents, and title.
 │   │   ├── *72-Utilities*: Electricity, gas, water, and internet bills.
