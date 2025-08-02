@@ -297,6 +297,8 @@ Catégories
 │   │   ├── Employment-Contracts
 │   │   ├── Performance-Reviews
 │   │   └── Career-Planning
+            Experimental-Apps-and-Projects
+            Quick-Reference
 │   └── 90-99-Shopping
 │       ├── Shopping-Administration
 │       │   ├── *Shopping-Lists* (for planning items to buy)
