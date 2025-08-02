@@ -1,0 +1,162 @@
+Directory categories should be limited to 7 +/-2 per level.
+
+See
+- http://www.robtex.com/dmoz/ for definitions...
+- http://www.dummies.com/how-to.html
+- http://duckduckgo.com/bang.html
+- http://area51.stackexchange.com/
+
+
+
+De la "personnalisation des annonces" de Google :
+
+- Activités de plein air
+- Automobiles et véhicules
+- Blues
+- Cadeaux et articles pour événements spéciaux
+- Critiques de produits et comparateurs de prix
+- Cuisine et recettes
+- Dance et musique électronique
+- Écologie et enjeux environnementaux
+- Éducation des enfants
+- Enseignement
+- Épiceries fines
+- Films d'horreur
+- Informatique et électronique
+- Jazz
+- Maison et jardinage
+- Métal (musique)
+- Musique classique
+- Musique country
+- Musique folk et traditionnelle
+- Musique indie et alternative
+- Musique latino
+- Musique pop
+- Produits de luxe
+- Rap et hip-hop
+- Rock
+- Services professionnels
+- Shopping
+- Soins du corps et remise en forme
+- Stations de ski
+- Téléphones mobiles
+- Transports urbains
+- Travaux d'intérieur
+
+
+* Arts & Entertainment
+** Gambling
+** Games
+** Literature
+** Movies
+** Music
+** Photography
+** Television
+** Visual Arts
+
+* Business
+** Finance (Credit)
+** Industries
+** Insurance
+** Investment
+** Jobs
+** Marketing
+** Real Estate
+
+* Computers & Internet
+** Directories
+** Hardware
+** Hosting
+** Networking
+** Programming
+** Search Engine Optimization
+** Security
+** Software
+** Web Design
+** Web Development
+
+* Education
+** Colleges
+** Languages
+
+* Government
+** Law
+** Politics
+** Taxes
+
+* Health
+** Alternative Medicine
+** Beauty
+** Diseases
+** Fitness
+** Health Insurance
+** Hospitals
+** Medicine
+** Nutrition
+
+* Home
+** Home Improvement
+** Home Maintenance
+** Family
+** Cooking
+** Gardening
+** Do It Yourself
+** Pets
+
+* News
+** Current Events
+** Internet Broadcasts
+** Magazines
+** Media
+** Newspapers
+
+* Recreation & Sports
+** Autos
+** Baseball
+** Cycling
+** Food
+** Football
+** Games
+** Humor
+** Martial Arts
+** Outdoors
+
+* Reference
+** Dictionaries
+** Libraries
+** Maps
+** Phone Numbers and Addresses
+
+* Science
+** Agriculture
+** Astronomy
+** Biology
+** Earth Sciences
+** Environment
+** Social Sciences
+** Technology (Electronics)
+
+* Shopping
+** Auctions
+** Apparel
+** Clothing
+** Computers
+** Electronics
+** Flowers
+** Furniture
+** Gifts
+** Health
+** Home and Garden
+** Jewelry
+
+* Society
+** Relationships
+** Religion
+** Issues
+** Weddings
+** Genealogy
+
+* Travel
+** Destinations
+** Lodging
+** Travel Agents
